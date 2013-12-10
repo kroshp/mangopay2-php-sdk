@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-0": {"Kroshp\\MangoPay\\": ""}
+        "psr-0": {"MangoPay": ""}
     },
-    "target-dir": "Kroshp/MangoPay"
+    "target-dir": "MangoPay"
 }
