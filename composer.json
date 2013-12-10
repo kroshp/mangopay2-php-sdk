@@ -1,0 +1,15 @@
+{
+    "name": "kroshp/mangopay2-php-sdk",
+    "description": "MangoPay2 PHP SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kroshp",
+            "email": "kroshp@yahoo.ca"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Kroshp\\MangoPay\\": ""}
+    },
+    "target-dir": "Kroshp/MangoPay"
+}
